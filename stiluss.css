@@ -29,9 +29,6 @@ nav{
 .logo{
     font-size: 80px;
 }
-.logo a{
-    text-align: left;
-}
 nav ul li{
     display: inline-block;
     list-style: none;
